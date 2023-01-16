@@ -1,3 +1,23 @@
+ # Online Shopping App
+
+ ## In my project I've used React, Redux and Axios for APIs.
+
+ You can choose and look any items for buying and details.
+
+ ## Screen Gif
+
+ ![](screen.gif)
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
